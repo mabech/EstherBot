@@ -1,5 +1,5 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Marcia, a Mobile Software Developer from Canoas/RS! \n Do you want to learn more about Marcia? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:about_her) %[One random fact!](postback:random_fact)",
+    "BOT": "Hi there!\nI’m the personal bot of Marcia, a Mobile Software Developer from Canoas/RS! \n Do you want to learn more about Marcia? %[I'm here for the bot](postback:about her) %[Learn about Esther](postback:about_her) %[One random fact!](postback:random_fact)",
     "HELLO": "Hello, I'm so glad That you stay here! Do you want to know more about Marcia %[About her](postback:twitter)",
     "ABOUT HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
