@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Marcia, a Mobile Software Developer from Canoas/RS! \n Do you want to learn more about Marcia?",
-    "HELLO": "Hello, I'm so glad That you stay here! Do you want to know more about Marcia %[About her]",
+    "HELLO": "Hello, I'm so glad That you stay here! Do you want to know more about Marcia? ",
     "ABOUT HER": "She has a Linkedin Profile and a Branded.me too. Take a look and after come back here!!",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "MORE": "she has a Masters degree in Computer Aplication",
@@ -9,7 +9,7 @@
     "MORE": "I Will try to talk more about her!",
     "WHAT ?": "What about ?",
     "CITIZENSHIP":"Yeah .. she is Italian and Brazilian! She wants to work in Italy someday",
-    "LINKEDIN":"http://linkedin.com/in/mabech",
+    "LINKEDIN":"%[Marcia's Linkedin](http://linkedin.com/in/mabech)",,
     "JOB": "The mainly work that she had was software developer. She work with many of software languagens",
     "BYE": "Are you shure ? I don't wanna say goodbye yet!!...Please! make another question!!",
     "CONNECT ME": "",
